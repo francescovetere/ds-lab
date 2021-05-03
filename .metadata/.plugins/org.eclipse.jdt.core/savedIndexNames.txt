@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/home/francesco/Desktop/SD/lab/.metadata/.plugins/org.eclipse.jdt.core
+2386066575.index
+2422989911.index
+338480566.index
+3168517332.index
+3113442702.index
+2547871873.index
+1300742373.index

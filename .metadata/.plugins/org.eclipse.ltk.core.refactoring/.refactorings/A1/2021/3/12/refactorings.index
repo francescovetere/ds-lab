@@ -1,0 +1,18 @@
+1615922991091	Delete elements
+1615923281781	Rename type 'Server'
+1615923295249	Rename type 'ServerThread'
+1615923306442	Delete element
+1615998340473	Rename type 'Server'
+1615998347882	Rename type 'ServerThread'
+1615998483720	Rename field 'server'
+1616008747798	Delete element
+1616008749912	Delete element
+1616008896610	Rename type 'Client'
+1616008943376	Delete element
+1616008946055	Delete element
+1616008951026	Delete element
+1616008989771	Rename type 'ObjectServer'
+1616009905117	Delete element
+1616009913475	Rename type 'Server'
+1616009922661	Rename type 'ServerThread'
+1616076335898	Rename package 'src.it.unipr.ds.A1'
